@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on : Java Backend 
 - 🌱 I’m currently learning :Java ,Spring, SpringBoot + Hibernate, Microservice, DB 
-- 💬 Ask me about : Java and SpringBoot
-- 📫 How to reach me: 
+- 💬 Ask me about : Java and SpringBoot, Python
+- 😉 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->

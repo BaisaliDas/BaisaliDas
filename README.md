@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-
-**BaisaliDas/BaisaliDas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+**ABOUT ME**
 - 🔭 I’m currently working on  : DataScience | Django | Web Development 
 - 🌱 I’m currently learning ... : Python Full-Stack Development | Machine Learning| EDA | Web Scrapping 
 - 💬 Ask me about ... Python | DB | ML 

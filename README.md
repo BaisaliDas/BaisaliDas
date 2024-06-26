@@ -2,6 +2,7 @@
 ## Hi there 👋
 
 **ABOUT ME**
+Hi, I am Baisali . I've completed my BTech in CSE .  
 - 🔭 I’m currently working on : DataScience | Django | Python Full-Stack Development 
 - 🌱 I’m currently learning : Python Full-Stack Development | Machine Learning| EDA | Web Scrapping 
 - 💬 Ask me about : Python | DB | ML 

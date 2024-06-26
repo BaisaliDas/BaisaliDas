@@ -1,3 +1,4 @@
+![logo](https://github.com/BaisaliDas/BaisaliDas/blob/main/github-header-image.png)
 ## Hi there 👋
 
 **ABOUT ME**
